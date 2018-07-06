@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UdemyJSMethods", "UdemyJSMethods\", "{933889F5-95A3-4452-9CB4-9F3B23626E19}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59553"
+		Debug.AspNetCompiler.PhysicalPath = "UdemyJSMethods\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59553\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59553"
+		Release.AspNetCompiler.PhysicalPath = "UdemyJSMethods\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59553\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59553"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933889F5-95A3-4452-9CB4-9F3B23626E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933889F5-95A3-4452-9CB4-9F3B23626E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E336EC59-3FDA-4C15-AE39-FCD5D91FB044}
+	EndGlobalSection
+EndGlobal
